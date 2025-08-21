@@ -1,5 +1,11 @@
 # Space Experiment Visualization Tool
 
+<p align="center">
+  <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-meatballs/?tab=details">
+    <img src="nasa.png" alt="Space Experiment Visualization Tool – NASA Space Apps Global Finalist" width="100%">
+  </a>
+</p>
+
 A scalable visualization tool for biological experiments conducted in space, built for the **2024 NASA Space Apps Challenge**.  
 This project focuses on datasets **OSD-379** and **OSD-665**, enabling scientists to ingest metadata, generate interactive visualizations, and contextualize experiments in a user-friendly way.
 
