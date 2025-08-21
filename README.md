@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-meatballs/?tab=details">
-    <img src="nasa.png" alt="Space Experiment Visualization Tool – NASA Space Apps Global Finalist" width="100%">
+    <img src="nasa.png" alt="Space Experiment Visualization Tool – NASA Space Apps Global Finalist" width="30%">
   </a>
 </p>
 
